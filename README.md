@@ -10,7 +10,7 @@ This project uses current [2023 data](https://github.com/tabburn/CO2-emissions-b
 [Methods Used](#Methods-Used)\
 [Libraries](#Libraries)\
 [Technologies](#Technologies)\
-[Data Formats](#Data-Formats)\
+[Data Format](#Data-Format)\
 [About the Data](#About-the-Data)\
 [Contact Me](#Contact-Me)
 
@@ -22,7 +22,6 @@ The purpose of this project is to explore different regression models with the g
 * How can we best predict emissions of future vehicles?
 
 ## Methods Used
-* Data Cleaning
 * Machine Learning
 * Linear Regression
 * Predictive Modeling
@@ -37,11 +36,11 @@ The purpose of this project is to explore different regression models with the g
 * Python
 * Jupyter
 
-## Data Formats
+## Data Format
 * .csv
 
 ## About the Data
-The [dataset](https://github.com/tabburn/CO2-emissions-by-vehicle/blob/main/resources/2023fuelconsumptionCO2.csv) used in this analysis is provided by the Canadian government and the original source can be found [here](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkML0101ENSkillsNetwork1047-2023-01-01). It is currently listed as the English version of '2023 Fuel Consumption Ratings (2023-04-04)'. It provides model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada. The data is clean and contains no null values.
+The [dataset](https://github.com/tabburn/CO2-emissions-by-vehicle/blob/main/resources/2023fuelconsumptionCO2.csv) used in this analysis is provided by the Canadian government and the original source can be found [here](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkML0101ENSkillsNetwork1047-2023-01-01). It is currently listed as the English version of '2023 Fuel Consumption Ratings (2023-04-04)'. It provides model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada. The data is clean and contains no null values. More detailed information about the dataset can be found in the README.md file in the 'resources' directory link [here](https://github.com/tabburn/CO2-emissions-by-vehicle/tree/main/resources).
 
 ## Contact Me
 | Contact Method | |
