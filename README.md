@@ -1,6 +1,6 @@
 ![vehicle exhaust](https://github.com/tabburn/CO2-emissions-by-vehicle/blob/main/resources/co2_emissions_hero.jpg)
 
-# Regression Analysis of Carbon Dioxide Emissions per Vehicle
+# Regression Analysis of Emissions per Vehicle
 This project uses current [2023 data](https://github.com/tabburn/CO2-emissions-by-vehicle/blob/main/resources/2023fuelconsumptionCO2.csv) of CO<sub>2</sub> emissions per vehicle to predict emissions of future vehicles. The predictions are drawn by looking at different features and through exploring different types of regression models with the goal of finding a line of best fit to include a high r<sup>2</sup> and variance score and a low mean squared error.
 
 ## Table of Contents
